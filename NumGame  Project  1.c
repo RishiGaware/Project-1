@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<time.h>vdfvxsdf
+#include<time.h>
 #include<conio.h>
 #include<windows.h>
 
