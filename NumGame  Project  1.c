@@ -29,7 +29,7 @@ void rules()
                         SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE),9);        //for colours
     printf("\t\t* Welcome To The Game ");
 
-    printf("*\n -> Plz Enter Your Name - ");
+    printf("*\n -> Player Name - ");
     scanf("%s",&n);
                          SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 12);
     printf("\n\t ----->* RULES OF THIS GAME *<-----\n");
